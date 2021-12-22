@@ -1,6 +1,6 @@
 
 
-# 👋 Merhaba, ben Cemal YILDIRIM! 
+# 👋 Hi, I'm Cemal YILDIRIM! 
 
 <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ByStronq&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
